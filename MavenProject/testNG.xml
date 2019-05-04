@@ -1,0 +1,7 @@
+<suite name="softwaretesting">
+ <test name="NewTest">
+ <classes>
+ <class name="TestNgDemo.NewTest" />
+ </classes>
+ </test>
+</suite>
